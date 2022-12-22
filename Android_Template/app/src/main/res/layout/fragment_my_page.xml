@@ -35,13 +35,13 @@
 
     <ScrollView
         android:id="@+id/scrollview"
-        android:layout_width="376dp"
-        android:layout_height="709dp"
+        android:layout_width="375dp"
+        android:layout_height="679dp"
         android:layout_marginStart="10dp"
         android:fillViewport="true"
-        android:scrollbarSize="10dp"
-        android:scrollbarFadeDuration="0"
         android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:scrollbarFadeDuration="0"
+        android:scrollbarSize="10dp"
         android:scrollbarThumbVertical="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -346,13 +346,6 @@
                     android:textSize="15dp" />
 
             </LinearLayout>
-
         </androidx.constraintlayout.widget.ConstraintLayout>
-
-
     </ScrollView>
-
-
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>

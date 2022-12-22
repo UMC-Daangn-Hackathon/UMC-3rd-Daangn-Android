@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-mergeDebugResources-26:\\layout\\fragment_dongne.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\layout\\fragment_dongne.xml"
+    },
+    {
         "merged": "com.softsquared.template.kotlin.app-mergeDebugResources-26:/layout/fragment_my_page.xml",
         "source": "com.softsquared.template.kotlin.app-main-29:/layout/fragment_my_page.xml"
     },
@@ -10,6 +14,10 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-mergeDebugResources-26:\\layout\\activity_splash.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-mergeDebugResources-26:/layout/fragment_dongne.xml",
+        "source": "com.softsquared.template.kotlin.app-main-29:/layout/fragment_dongne.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-mergeDebugResources-26:\\layout\\dialog_loading.xml",

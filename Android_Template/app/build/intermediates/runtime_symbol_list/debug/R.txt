@@ -1867,6 +1867,8 @@ int drawable ic_symbol_background 0x7f0700a4
 int drawable ic_tag 0x7f0700a5
 int drawable ic_target 0x7f0700a6
 int drawable ic_total_view_unselected 0x7f0700a7
+int drawable ic_town_life_inactivate 0x7f0700da
+int drawable ic_user_profile_placeholder 0x7f0700db
 int drawable img_pay 0x7f0700a8
 int drawable main_btm_nav_item_color 0x7f0700a9
 int drawable material_cursor_drawable 0x7f0700aa
@@ -1906,13 +1908,18 @@ int drawable onboarding_logo 0x7f0700cb
 int drawable onboarding_pin 0x7f0700cc
 int drawable onboarding_town 0x7f0700cd
 int drawable progressbar 0x7f0700ce
+int drawable resize_alarm 0x7f0700dc
 int drawable resize_buy_list 0x7f0700cf
 int drawable resize_ic_account_book 0x7f0700d0
+int drawable resize_ic_category 0x7f0700dd
 int drawable resize_ic_heart 0x7f0700d1
+int drawable resize_ic_search 0x7f0700de
+int drawable resize_ic_user_profile_placeholder 0x7f0700df
 int drawable resize_sale_list 0x7f0700d2
 int drawable ripple_effect 0x7f0700d3
 int drawable round_shape_background 0x7f0700d4
 int drawable softsquared_logo 0x7f0700d5
+int drawable tab_icon_category 0x7f0700e0
 int drawable test_custom_background 0x7f0700d6
 int drawable test_level_drawable 0x7f0700d7
 int drawable tooltip_frame_dark 0x7f0700d8
@@ -2035,8 +2042,11 @@ int id btn_ad 0x7f080072
 int id btn_alarmkeyword 0x7f080073
 int id btn_bizprofilesetting 0x7f080074
 int id btn_buy_content 0x7f080075
+int id btn_dongne 0x7f080217
 int id btn_dongneList 0x7f080076
 int id btn_dongne_adlist 0x7f080077
+int id btn_dongne_category 0x7f080218
+int id btn_dongne_profile 0x7f080219
 int id btn_dongnecheck 0x7f080078
 int id btn_dongnesetting 0x7f080079
 int id btn_friend 0x7f08007a
@@ -2168,6 +2178,9 @@ int id ifRoom 0x7f0800f7
 int id ignore 0x7f0800f8
 int id ignoreRequest 0x7f0800f9
 int id image 0x7f0800fa
+int id imageButton 0x7f08021a
+int id imageButton2 0x7f08021b
+int id imageButton3 0x7f08021c
 int id imagebtn_profile_name 0x7f0800fb
 int id img_pay 0x7f0800fc
 int id imgbtn_pay 0x7f0800fd
@@ -2194,6 +2207,7 @@ int id line1 0x7f080111
 int id line3 0x7f080112
 int id linear 0x7f080113
 int id linearLayout 0x7f080114
+int id linearLayout2 0x7f08021d
 int id linear_layout_pay 0x7f080115
 int id listMode 0x7f080116
 int id list_item 0x7f080117
@@ -2222,8 +2236,11 @@ int id material_timepicker_ok_button 0x7f08012d
 int id material_timepicker_view 0x7f08012e
 int id material_value_index 0x7f08012f
 int id media_actions 0x7f080130
+int id menu_main_btm_nav_chatting 0x7f080216
+int id menu_main_btm_nav_dongne 0x7f080214
 int id menu_main_btm_nav_home 0x7f080131
 int id menu_main_btm_nav_my_page 0x7f080132
+int id menu_main_btm_nav_mynearby 0x7f080215
 int id message 0x7f080133
 int id middle 0x7f080134
 int id mini 0x7f080135
@@ -2300,6 +2317,7 @@ int id progress_horizontal 0x7f08017b
 int id radio 0x7f08017c
 int id ratio 0x7f08017d
 int id rectangles 0x7f08017e
+int id recyclerView 0x7f08021e
 int id reverseSawtooth 0x7f08017f
 int id right 0x7f080180
 int id rightToLeft 0x7f080181
@@ -2535,6 +2553,7 @@ int layout design_navigation_menu_item 0x7f0b002b
 int layout design_text_input_end_icon 0x7f0b002c
 int layout design_text_input_start_icon 0x7f0b002d
 int layout dialog_loading 0x7f0b002e
+int layout fragment_dongne 0x7f0b007e
 int layout fragment_login 0x7f0b002f
 int layout fragment_my_page 0x7f0b0030
 int layout material_chip_input_combo 0x7f0b0031

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-27:/drawable-xhdpi_tab_icon_category.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-29:/drawable-xhdpi/tab_icon_category.png"
+    },
+    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\layout_activity_splash.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\layout\\activity_splash.xml"
     },
@@ -40,16 +44,16 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\drawable-xhdpi\\ic_more_dark.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_icon_more.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\drawable-xhdpi\\icon_more.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable_softsquared_logo.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\drawable\\softsquared_logo.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_category_icon2.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\drawable-xhdpi\\category_icon2.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable_softsquared_logo.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\drawable\\softsquared_logo.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_icon_more.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\drawable-xhdpi\\icon_more.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_onboarding_pin.png.flat",
@@ -106,6 +110,10 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_ic_expand_more_outline_24.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\drawable-xhdpi\\ic_expand_more_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\layout_fragment_dongne.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\layout\\fragment_dongne.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_ripple_effect.xml.flat",
@@ -166,6 +174,14 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_category_icon13.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\drawable-xhdpi\\category_icon13.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-27:/drawable-xhdpi_ic_user_profile_placeholder.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-29:/drawable-xhdpi/ic_user_profile_placeholder.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-27:/layout_fragment_dongne.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-29:/layout/fragment_dongne.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_ic_apron.png.flat",
@@ -252,8 +268,16 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\drawable-xhdpi\\category_icon1.png"
     },
     {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-27:/drawable_resize_alarm.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-29:/drawable/resize_alarm.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_ic_feed_reply_outline_18.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\drawable-xhdpi\\ic_feed_reply_outline_18.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-27:/drawable_resize_ic_search.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-29:/drawable/resize_ic_search.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_ic_business_profile.png.flat",
@@ -330,6 +354,10 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_ic_advertisement.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\drawable-xhdpi\\ic_advertisement.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-27:/drawable_resize_ic_user_profile_placeholder.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-29:/drawable/resize_ic_user_profile_placeholder.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_ic_location_inactivate.png.flat",
@@ -542,6 +570,10 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-mdpi_ic_total_view_unselected.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-main-29:\\drawable-mdpi\\ic_total_view_unselected.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-27:/drawable_resize_ic_category.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-29:/drawable/resize_ic_category.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4\\com.softsquared.template.kotlin.app-merged_res-27:\\drawable-xhdpi_ic_photo.png.flat",

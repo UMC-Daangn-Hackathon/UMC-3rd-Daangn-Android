@@ -1868,6 +1868,8 @@ drawable ic_symbol_background
 drawable ic_tag
 drawable ic_target
 drawable ic_total_view_unselected
+drawable ic_town_life_inactivate
+drawable ic_user_profile_placeholder
 drawable img_pay
 drawable main_btm_nav_item_color
 drawable material_cursor_drawable
@@ -1907,13 +1909,18 @@ drawable onboarding_logo
 drawable onboarding_pin
 drawable onboarding_town
 drawable progressbar
+drawable resize_alarm
 drawable resize_buy_list
 drawable resize_ic_account_book
+drawable resize_ic_category
 drawable resize_ic_heart
+drawable resize_ic_search
+drawable resize_ic_user_profile_placeholder
 drawable resize_sale_list
 drawable ripple_effect
 drawable round_shape_background
 drawable softsquared_logo
+drawable tab_icon_category
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -2036,8 +2043,11 @@ id btn_ad
 id btn_alarmkeyword
 id btn_bizprofilesetting
 id btn_buy_content
+id btn_dongne
 id btn_dongneList
 id btn_dongne_adlist
+id btn_dongne_category
+id btn_dongne_profile
 id btn_dongnecheck
 id btn_dongnesetting
 id btn_friend
@@ -2169,6 +2179,9 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageButton
+id imageButton2
+id imageButton3
 id imagebtn_profile_name
 id img_pay
 id imgbtn_pay
@@ -2195,6 +2208,7 @@ id line1
 id line3
 id linear
 id linearLayout
+id linearLayout2
 id linear_layout_pay
 id listMode
 id list_item
@@ -2223,8 +2237,11 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id media_actions
+id menu_main_btm_nav_chatting
+id menu_main_btm_nav_dongne
 id menu_main_btm_nav_home
 id menu_main_btm_nav_my_page
+id menu_main_btm_nav_mynearby
 id message
 id middle
 id mini
@@ -2301,6 +2318,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerView
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2536,6 +2554,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout dialog_loading
+layout fragment_dongne
 layout fragment_login
 layout fragment_my_page
 layout material_chip_input_combo
