@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/layout_dialog_loading.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable-xxxhdpi_ic_total_view_unselected.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable-xxxhdpi/ic_total_view_unselected.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/menu_menu_main_bottom_nav.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/menu/menu_main_bottom_nav.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/layout_fragment_home.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable_heart.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable/heart.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/layout_activity_splash.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable-xhdpi_ic_total_view_unselected.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable-xhdpi/ic_total_view_unselected.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable-xxhdpi_ic_total_view_unselected.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable-xxhdpi/ic_total_view_unselected.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable-xxxhdpi_ic_setting_view_unselected.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable-xxxhdpi/ic_setting_view_unselected.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/xml_network_security_config.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable-hdpi_ic_total_view_unselected.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable-hdpi/ic_total_view_unselected.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable-mdpi_ic_total_view_unselected.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable-mdpi/ic_total_view_unselected.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable_main_btm_nav_item_color.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable/main_btm_nav_item_color.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable-mdpi_ic_setting_view_unselected.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable-mdpi/ic_setting_view_unselected.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable_bell.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable/bell.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable-xxhdpi_ic_setting_view_unselected.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable-xxhdpi/ic_setting_view_unselected.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable_softsquared_logo.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable/softsquared_logo.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable-xhdpi_ic_setting_view_unselected.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable-xhdpi/ic_setting_view_unselected.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/layout_fragment_login.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable_below.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable/below.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable_search.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable/search.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/layout_fragment_my_page.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/fragment_my_page.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable_menu.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable/menu.png"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/layout_item_data.xml.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/item_data.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-merged_res-33:/drawable-hdpi_ic_setting_view_unselected.png.flat",
+        "source": "com.softsquared.template.kotlin.app-main-35:/drawable-hdpi/ic_setting_view_unselected.png"
+    }
+]

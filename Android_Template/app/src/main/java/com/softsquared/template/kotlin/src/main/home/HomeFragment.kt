@@ -1,58 +1,43 @@
 package com.softsquared.template.kotlin.src.main.home
 
 import android.os.Bundle
-import android.util.Log
+import android.view.LayoutInflater
 import android.view.View
+import android.view.ViewGroup
+import androidx.fragment.app.Fragment
+import androidx.recyclerview.widget.LinearLayoutManager
 import com.softsquared.template.kotlin.R
-import com.softsquared.template.kotlin.config.BaseFragment
 import com.softsquared.template.kotlin.databinding.FragmentHomeBinding
-import com.softsquared.template.kotlin.src.main.home.models.PostSignUpRequest
-import com.softsquared.template.kotlin.src.main.home.models.SignUpResponse
-import com.softsquared.template.kotlin.src.main.home.models.UserResponse
 
-class HomeFragment : BaseFragment<FragmentHomeBinding>(FragmentHomeBinding::bind, R.layout.fragment_home),
-        HomeFragmentInterface {
+class HomeFragment : Fragment() {
+    private lateinit var binding : FragmentHomeBinding
+    private val dataList = ArrayList<Data>()
 
-    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        super.onViewCreated(view, savedInstanceState)
 
-        binding.homeButtonTryGetJwt.setOnClickListener {
-            showLoadingDialog(requireContext())
-            HomeService(this).tryGetUsers()
-        }
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
 
-        binding.homeBtnTryPostHttpMethod.setOnClickListener {
-            val email = binding.homeEtId.text.toString()
-            val password = binding.homeEtPw.text.toString()
-            val postRequest = PostSignUpRequest(email = email, password = password,
-                    confirmPassword = password, nickname = "test", phoneNumber = "010-0000-0000")
-            showLoadingDialog(requireContext())
-            HomeService(this).tryPostSignUp(postRequest)
-        }
+
+    ): View? {
+        binding = FragmentHomeBinding.inflate(inflater,container,false)
+
+
+
+
+        dataList.add(Data("df","dd","dd","dd","dd","dd","dd"))
+        val adapter = context?.let { RvAdapter(it,dataList) }
+        binding.rvHome.adapter= adapter
+
+        binding.rvHome.layoutManager=LinearLayoutManager(context)
+
+        return binding.root
     }
 
-    override fun onGetUserSuccess(response: UserResponse) {
-        dismissLoadingDialog()
-        for (User in response.result) {
-            Log.d("HomeFragment", User.toString())
-        }
-        binding.homeButtonTryGetJwt.text = response.message
-        showCustomToast("Get JWT 성공")
     }
 
-    override fun onGetUserFailure(message: String) {
-        dismissLoadingDialog()
-        showCustomToast("오류 : $message")
-    }
 
-    override fun onPostSignUpSuccess(response: SignUpResponse) {
-        dismissLoadingDialog()
-        binding.homeBtnTryPostHttpMethod.text = response.message
-        response.message?.let { showCustomToast(it) }
-    }
 
-    override fun onPostSignUpFailure(message: String) {
-        dismissLoadingDialog()
-        showCustomToast("오류 : $message")
-    }
-}
+
+

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.softsquared.template.kotlin.app-mergeDebugResources-32:/layout/dialog_loading.xml",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-mergeDebugResources-32:/layout/fragment_my_page.xml",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/fragment_my_page.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-mergeDebugResources-32:/layout/fragment_home.xml",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-mergeDebugResources-32:/layout/item_data.xml",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/item_data.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-mergeDebugResources-32:/layout/fragment_login.xml",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.softsquared.template.kotlin.app-mergeDebugResources-32:/layout/activity_splash.xml",
+        "source": "com.softsquared.template.kotlin.app-main-35:/layout/activity_splash.xml"
+    }
+]
