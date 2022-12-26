@@ -59,7 +59,20 @@
 
 <br><br>
 
-    
+* ## 기술 스택
+* ### Front-end  
+<a href="#"><img src="https://img.shields.io/badge/android-DD4B25?style=plastic&logo=android&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/kotlin-254BDD?style=plastic&logo=kotlin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/java-EFD81D?style=plastic&logo=java&logoColor=white"/></a>
+* ### Back-end  
+<a href="#"><img src="https://img.shields.io/badge/java-EFD81D?style=plastic&logo=java&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Spring-0B4B33?style=plastic&logo=spring&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-005E85?style=plastic&logo=mysql&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/AES128-525252?style=plastic&logo=aes128&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/postman-F76934?style=plastic&logo=postman&logoColor=white"/></a> <br/>
+<a href="#"><img src="https://img.shields.io/badge/AWS EC2-FF9701?style=plastic&logo=aws&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/AWS RDS-FF9701?style=plastic&logo=aws&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/AWS S3-FF9701?style=plastic&logo=aws&logoColor=white"/></a>
 <br><br>
 
 
